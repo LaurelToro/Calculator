@@ -1,0 +1,14 @@
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\bin\Debug\net10.0-windows\LommeregnerGui.exe
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\bin\Debug\net10.0-windows\LommeregnerGui.deps.json
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\bin\Debug\net10.0-windows\LommeregnerGui.runtimeconfig.json
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\bin\Debug\net10.0-windows\LommeregnerGui.dll
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\bin\Debug\net10.0-windows\LommeregnerGui.pdb
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\LommeregnerGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\LommeregnerGui.AssemblyInfoInputs.cache
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\LommeregnerGui.AssemblyInfo.cs
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\LommeregnerGui.csproj.CoreCompileInputs.cache
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\LommeregnerGui.dll
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\refint\LommeregnerGui.dll
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\LommeregnerGui.pdb
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\LommeregnerGui.genruntimeconfig.cache
+C:\Users\LaurelToro\Documents\C#\Lommeregner\LommeregnerGui\obj\Debug\net10.0-windows\ref\LommeregnerGui.dll
